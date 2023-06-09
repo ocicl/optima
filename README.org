@@ -1,0 +1,9 @@
+* optima
+
+Optimized Pattern Matching Library for Common Lisp Resources
+
+|---------+----------------------------------------|
+| source  | git:https://github.com/m2ym/optima.git |
+| commit  | 373b245                                |
+| systems | optima optima.ppcre                    |
+|---------+----------------------------------------|
